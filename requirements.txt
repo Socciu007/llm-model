@@ -1,0 +1,12 @@
+langchain
+langchain_community
+streamlit
+transformers 
+datasets 
+accelerate 
+torch
+huggingface_hub
+bitsandbytes
+peft
+trl
+wandb
